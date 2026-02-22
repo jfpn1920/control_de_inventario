@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un sistema de control de inventario e
 
 Cada producto se almacena como una clave dentro del diccionario, mientras que la cantidad disponible se guarda como su valor correspondiente. Esta estructura permite acceder rápidamente a la información, actualizar el stock de manera dinámica y mantener un control organizado de los productos registrados.
 
-El sistema funciona mediante un menú interactivo en consola que permite al usuario visualizar el inventario, actualizar cantidades, agregar nuevos productos y recibir alertas automáticas cuando el stock es bajo.
+El sistema funciona mediante un menú interactivo en consola que permite al usuario visualizar el inventario, actualizar cantidades, agregar nuevos productos y recibir alertas automáticas cuando el stock es bajo. Esta estructura interactiva facilita la gestión continua de los productos, ya que el usuario puede realizar múltiples operaciones sin reiniciar el programa.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
